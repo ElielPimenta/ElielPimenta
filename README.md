@@ -1,7 +1,7 @@
 ### Opa, bão?
 
-- 🔭 Atualmente trabalhando com Python, JS, HTML, SASS; 
-- 💬 Pergunte-me sobre qualquer coisa, só não sei se saberei responder;
+- 🔭 Atualmente trabalhando com Python, JS, HTML, CSS; 
+- 💬 Pergunte-me sobre qualquer coisa, só não saberei responder;
 - 📫 Contato: elielhsp@gmail.com;
 - 😄 Pronomes: ele/dele;
 - ⚡ Fato Divertido: Programo ouvindo sertanejo raiz;
